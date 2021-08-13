@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Clay Park Resume",
+    title: "Generic Resume",
   },
   plugins: [
     "gatsby-plugin-image",
